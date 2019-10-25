@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2019-10-25T22:32:07.557Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/77.0.3865.120 Safari/537.36" etag="d-8SBViH-XHrowKWKR2_" version="12.1.7" type="github" pages="1">
+<mxfile host="www.draw.io" modified="2019-10-25T22:32:19.509Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/77.0.3865.120 Safari/537.36" etag="Y1A5YbgShzeiCQsPXN6n" version="12.1.7" type="github" pages="1">
   <diagram id="z9P_geivwECmlzvL3oMB" name="Page-1">
     <mxGraphModel dx="1463" dy="693" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -8,10 +8,10 @@
           <mxGeometry x="278" y="530" width="342" height="140" as="geometry"/>
         </mxCell>
         <mxCell id="Iyu4yZvKu-Q9448TbISd-5" value="DataBase" style="shape=folder;fontStyle=1;spacingTop=10;tabWidth=40;tabHeight=14;tabPosition=left;html=1;" vertex="1" parent="1">
-          <mxGeometry x="239.5" y="590" width="130" height="60" as="geometry"/>
+          <mxGeometry x="310" y="584" width="130" height="60" as="geometry"/>
         </mxCell>
         <mxCell id="Iyu4yZvKu-Q9448TbISd-6" value="Report" style="shape=folder;fontStyle=1;spacingTop=10;tabWidth=40;tabHeight=14;tabPosition=left;html=1;" vertex="1" parent="1">
-          <mxGeometry x="389.5" y="590" width="130" height="60" as="geometry"/>
+          <mxGeometry x="460" y="584" width="130" height="60" as="geometry"/>
         </mxCell>
         <mxCell id="Iyu4yZvKu-Q9448TbISd-7" value="Утилиты&lt;br&gt;global" style="shape=folder;fontStyle=1;spacingTop=10;tabWidth=40;tabHeight=14;tabPosition=left;html=1;" vertex="1" parent="1">
           <mxGeometry x="680" y="380" width="130" height="60" as="geometry"/>
